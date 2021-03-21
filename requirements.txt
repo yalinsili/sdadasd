@@ -1,0 +1,6 @@
+discord
+requests
+beautifulsoup4
+colorama
+pymysql
+lxml
